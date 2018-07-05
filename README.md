@@ -1,2 +1,2 @@
 # Hello-World
-Practice test for beginner
+This is my practice test to learn how to work GitHub. 
